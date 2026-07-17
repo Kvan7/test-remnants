@@ -1,2 +1,3 @@
 # test-remnants
-demo testing remnant calcs for poe2
+
+Demo/test project for determining expected available recipes on expedition remnants.
