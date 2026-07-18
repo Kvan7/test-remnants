@@ -61,7 +61,7 @@ export default defineComponent({
   setup() {
     const selectedRune = shallowRef<string>('');
     const selectedSlot = shallowRef<number>(1);
-    const selectedCount = shallowRef<number>(1);
+    const selectedCount = shallowRef<number>(2);
 
     const result = computed(() => {
       const weights =
@@ -76,7 +76,7 @@ export default defineComponent({
     return {
       runes: EXPEDITION_2_RUNES,
       slots: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
-      counts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      counts: [2, 3, 4, 5, 6, 7, 8, 9, 10],
       selectedRune,
       selectedSlot,
       selectedCount,
