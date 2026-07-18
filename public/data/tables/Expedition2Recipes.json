@@ -1,0 +1,9093 @@
+[
+  {
+    "_index": 0,
+    "Id": "10SlotBait",
+    "Runes": [
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33
+    ],
+    "Description": "Krillson's Bay Key",
+    "RuneCountRequired": 10,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [],
+    "DisabledText": null
+  },
+  {
+    "_index": 1,
+    "Id": "2SlotOrbofAugmentation1",
+    "Runes": [
+      3,
+      2
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 24,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      0,
+      126
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 2,
+    "Id": "2SlotOrbofTransmutation1",
+    "Runes": [
+      3,
+      1
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 13,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      0,
+      10,
+      92,
+      125
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 3,
+    "Id": "2SlotUncutSkillGem1",
+    "Runes": [
+      4,
+      0
+    ],
+    "Description": "Uncut Skill Gem",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      1,
+      5,
+      44,
+      83,
+      107,
+      127,
+      167
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 4,
+    "Id": "2SlotUncutSupportGem1",
+    "Runes": [
+      4,
+      6
+    ],
+    "Description": "Uncut Support Gem",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      1,
+      8,
+      44,
+      107,
+      163,
+      167
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 5,
+    "Id": "2SlotArtificersOrb1",
+    "Runes": [
+      8,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 35,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      7,
+      9,
+      64,
+      169
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 6,
+    "Id": "2SlotExaltedOrb1",
+    "Runes": [
+      7,
+      11
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 18,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      11,
+      27,
+      33,
+      34,
+      57,
+      66,
+      86,
+      101,
+      139,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 7,
+    "Id": "2SlotArmourersScrap2",
+    "Runes": [
+      1,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 6,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      3,
+      8,
+      111,
+      163
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 8,
+    "Id": "2SlotArcanistsEtcher2",
+    "Runes": [
+      2,
+      8
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 1,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      4,
+      46,
+      84,
+      112
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 9,
+    "Id": "2SlotRegalOrb1",
+    "Runes": [
+      7,
+      18
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 21,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      11,
+      14,
+      34,
+      59,
+      66,
+      86,
+      101,
+      139,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 10,
+    "Id": "2SlotBlacksmithsWhetstone2",
+    "Runes": [
+      0,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 0,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      2,
+      8,
+      110,
+      163
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 11,
+    "Id": "2SlotLesserVisionRune1",
+    "Runes": [
+      15,
+      10
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 643,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      15,
+      22
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 12,
+    "Id": "2SlotLesserGlacialRune1",
+    "Runes": [
+      1,
+      4
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 635,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      3,
+      6,
+      111
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 13,
+    "Id": "2SlotLesserAdeptRune1",
+    "Runes": [
+      1,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 668,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      3,
+      7,
+      111
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 14,
+    "Id": "2SlotLesserIronRune1",
+    "Runes": [
+      6,
+      4
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 637,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      6,
+      12,
+      51
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 15,
+    "Id": "2SlotLesserDesertRune1",
+    "Runes": [
+      0,
+      4
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 634,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      2,
+      6,
+      110
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 16,
+    "Id": "2SlotLesserResolveRune1",
+    "Runes": [
+      2,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 672,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      4,
+      7,
+      112
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 17,
+    "Id": "2SlotLesserRebirthRune1",
+    "Runes": [
+      15,
+      18
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 640,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      14,
+      22,
+      59
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 18,
+    "Id": "2SlotLesserStormRune1",
+    "Runes": [
+      2,
+      4
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 636,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      4,
+      6,
+      112
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 19,
+    "Id": "2SlotLesserInspirationRune1",
+    "Runes": [
+      15,
+      1
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 641,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      10,
+      22,
+      92,
+      125
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 20,
+    "Id": "2SlotLesserRobustRune1",
+    "Runes": [
+      0,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 664,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      2,
+      7,
+      110
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 21,
+    "Id": "2SlotLesserStoneRune1",
+    "Runes": [
+      6,
+      1
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 642,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      10,
+      12,
+      51,
+      92,
+      125
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 22,
+    "Id": "2SlotLesserBodyRune1",
+    "Runes": [
+      6,
+      10
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 638,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      12,
+      15,
+      51
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 23,
+    "Id": "2SlotLesserMindRune1",
+    "Runes": [
+      8,
+      10
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 639,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      9,
+      15,
+      64,
+      169
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 24,
+    "Id": "2SlotLesserWardRune1",
+    "Runes": [
+      8,
+      18
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5073,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      9,
+      14,
+      59,
+      64,
+      169
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 25,
+    "Id": "2SlotLesserChargingRune1",
+    "Runes": [
+      12,
+      14
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5077,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      13,
+      35,
+      81,
+      87,
+      124,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 26,
+    "Id": "2SlotVisionRune1",
+    "Runes": [
+      13,
+      11
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 633,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      27,
+      33,
+      57
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 27,
+    "Id": "2SlotGlacialRune1",
+    "Runes": [
+      18,
+      12
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 625,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      18,
+      21,
+      29,
+      32,
+      68,
+      170
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 28,
+    "Id": "2SlotAdeptRune1",
+    "Runes": [
+      18,
+      13
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 669,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      18,
+      24,
+      29,
+      39,
+      68,
+      102,
+      130,
+      170
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 29,
+    "Id": "2SlotIronRune1",
+    "Runes": [
+      11,
+      12
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 627,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      20,
+      21,
+      31,
+      32
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 30,
+    "Id": "2SlotDesertRune1",
+    "Runes": [
+      21,
+      12
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 624,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      17,
+      21,
+      28,
+      32
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 31,
+    "Id": "2SlotResolveRune1",
+    "Runes": [
+      14,
+      13
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 673,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      19,
+      24,
+      30,
+      39,
+      102,
+      130
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 32,
+    "Id": "2SlotBodyRune1",
+    "Runes": [
+      11,
+      17
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 628,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      20,
+      31
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 33,
+    "Id": "2SlotRebirthRune1",
+    "Runes": [
+      13,
+      11
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 630,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      27,
+      33,
+      57
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 34,
+    "Id": "2SlotStormRune1",
+    "Runes": [
+      14,
+      12
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 626,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      19,
+      21,
+      30,
+      32
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 35,
+    "Id": "2SlotMindRune1",
+    "Runes": [
+      17,
+      0
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 629,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      5,
+      23,
+      73,
+      83,
+      127,
+      174
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 36,
+    "Id": "2SlotInspirationRune1",
+    "Runes": [
+      10,
+      11
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 631,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      27,
+      33,
+      57
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 37,
+    "Id": "2SlotRobustRune1",
+    "Runes": [
+      21,
+      13
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 665,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      17,
+      24,
+      28,
+      39,
+      102,
+      130
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 38,
+    "Id": "2SlotStoneRune1",
+    "Runes": [
+      11,
+      14
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 632,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      20,
+      31,
+      87
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 39,
+    "Id": "2SlotWardRune1",
+    "Runes": [
+      17,
+      0
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5074,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      5,
+      23,
+      73,
+      83,
+      127,
+      174
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 40,
+    "Id": "2SlotArtificersOrb2",
+    "Runes": [
+      17,
+      13
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 35,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      23,
+      24,
+      39,
+      73,
+      102,
+      130,
+      174
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 41,
+    "Id": "2SlotOrbofAugmentation2",
+    "Runes": [
+      16,
+      14
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 24,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      16,
+      43,
+      65,
+      87,
+      89
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 42,
+    "Id": "2SlotOrbofTransmutation2",
+    "Runes": [
+      16,
+      18
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 13,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      14,
+      16,
+      43,
+      59,
+      65,
+      89
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 43,
+    "Id": "2SlotRunicAlloy1",
+    "Runes": [
+      7,
+      15
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5050,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      11,
+      34,
+      40,
+      66,
+      76,
+      86,
+      99,
+      101,
+      120,
+      133,
+      137,
+      139,
+      153
+    ],
+    "DisabledText": 9555
+  },
+  {
+    "_index": 44,
+    "Id": "2SlotUncutSpiritGem1",
+    "Runes": [
+      16,
+      19
+    ],
+    "Description": "Uncut Spirit Gem",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      16,
+      25,
+      43,
+      65,
+      89
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 45,
+    "Id": "2SlotGlassblowersBauble1",
+    "Runes": [
+      24,
+      19
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 28,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      25,
+      48,
+      69,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 46,
+    "Id": "2SlotGemcuttersPrism1",
+    "Runes": [
+      23,
+      19
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 29,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      25,
+      70,
+      172
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 47,
+    "Id": "2SlotRegalOrb2",
+    "Runes": [
+      12,
+      19
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 21,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      13,
+      25,
+      35,
+      81,
+      124,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 48,
+    "Id": "2SlotArmourersScrap4",
+    "Runes": [
+      18,
+      7
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 6,
+    "RewardCount": 4,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      18,
+      26,
+      29,
+      42,
+      68,
+      166,
+      170
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 49,
+    "Id": "2SlotArcanistsEtcher4",
+    "Runes": [
+      14,
+      7
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 1,
+    "RewardCount": 4,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      19,
+      26,
+      30,
+      42,
+      166
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 50,
+    "Id": "2SlotBlacksmithsWhetstone4",
+    "Runes": [
+      21,
+      7
+    ],
+    "Description": "",
+    "RuneCountRequired": 2,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 0,
+    "RewardCount": 4,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      17,
+      26,
+      28,
+      42,
+      166
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 51,
+    "Id": "3SlotChargingRune1",
+    "Runes": [
+      23,
+      14,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5078,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      52,
+      70,
+      87,
+      172
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 52,
+    "Id": "3SlotGreaterVisionRune1",
+    "Runes": [
+      13,
+      11,
+      1
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 653,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      33,
+      57
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 53,
+    "Id": "3SlotGreaterGlacialRune1",
+    "Runes": [
+      18,
+      12,
+      21
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 645,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      29,
+      32,
+      68,
+      170
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 54,
+    "Id": "3SlotGreaterAdeptRune1",
+    "Runes": [
+      18,
+      13,
+      2
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 670,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      29,
+      39,
+      68,
+      102,
+      130,
+      170
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 55,
+    "Id": "3SlotGreaterIronRune1",
+    "Runes": [
+      11,
+      12,
+      19
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 647,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      31,
+      32
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 56,
+    "Id": "3SlotGreaterDesertRune1",
+    "Runes": [
+      21,
+      12,
+      24
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 644,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      28,
+      32
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 57,
+    "Id": "3SlotGreaterResolveRune1",
+    "Runes": [
+      14,
+      13,
+      24
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 674,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      30,
+      39,
+      102,
+      130
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 58,
+    "Id": "3SlotGreaterBodyRune1",
+    "Runes": [
+      11,
+      17,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 648,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      31,
+      52
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 59,
+    "Id": "3SlotGreaterRebirthRune1",
+    "Runes": [
+      13,
+      11,
+      15
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 650,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      33,
+      53,
+      57
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 60,
+    "Id": "3SlotGreaterStormRune1",
+    "Runes": [
+      14,
+      12,
+      13
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 646,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      30,
+      32
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 61,
+    "Id": "3SlotGreaterMindRune1",
+    "Runes": [
+      17,
+      0,
+      15
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 649,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      53,
+      73,
+      83,
+      127,
+      174
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 62,
+    "Id": "3SlotGreaterInspirationRune1",
+    "Runes": [
+      10,
+      11,
+      15
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 651,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      33,
+      53,
+      57
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 63,
+    "Id": "3SlotGreaterRobustRune1",
+    "Runes": [
+      21,
+      13,
+      21
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 666,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      28,
+      39,
+      102,
+      130
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 64,
+    "Id": "3SlotGreaterStoneRune1",
+    "Runes": [
+      11,
+      14,
+      19
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 652,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      31,
+      87
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 65,
+    "Id": "3SlotGreaterWardRune1",
+    "Runes": [
+      11,
+      27,
+      2
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5075,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      31,
+      36,
+      63,
+      165,
+      168
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 66,
+    "Id": "3SlotGreaterChargingRune1",
+    "Runes": [
+      11,
+      27,
+      0
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5079,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      31,
+      36,
+      63,
+      165,
+      168
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 67,
+    "Id": "3SlotUniqueBodyArmour1",
+    "Runes": [
+      19,
+      16,
+      22
+    ],
+    "Description": "[Rarity|Unique] Body Armour",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      37,
+      77,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 68,
+    "Id": "3SlotUniqueBoots1",
+    "Runes": [
+      19,
+      2,
+      22
+    ],
+    "Description": "[Rarity|Unique] Boots",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      37,
+      77,
+      113,
+      126,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 69,
+    "Id": "3SlotUniqueGloves1",
+    "Runes": [
+      19,
+      2,
+      22
+    ],
+    "Description": "[Rarity|Unique] Gloves",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      37,
+      77,
+      113,
+      126,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 70,
+    "Id": "3SlotUniqueHelmet1",
+    "Runes": [
+      19,
+      3,
+      22
+    ],
+    "Description": "[Rarity|Unique] Helmet",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      37,
+      77,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 71,
+    "Id": "3SlotArtificersOrb3",
+    "Runes": [
+      6,
+      13,
+      16
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 35,
+    "RewardCount": 3,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      39,
+      49,
+      51,
+      102,
+      109,
+      130
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 72,
+    "Id": "3SlotExaltedOrb2",
+    "Runes": [
+      7,
+      8,
+      14
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 18,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      34,
+      41,
+      46,
+      58,
+      66,
+      84,
+      86,
+      101,
+      139,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 73,
+    "Id": "3SlotChaosOrb1",
+    "Runes": [
+      7,
+      14,
+      5
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 3,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      34,
+      45,
+      66,
+      86,
+      87,
+      101,
+      139,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 74,
+    "Id": "3SlotRegalOrb3",
+    "Runes": [
+      24,
+      8,
+      14
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 21,
+    "RewardCount": 3,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      41,
+      46,
+      48,
+      58,
+      69,
+      84,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 75,
+    "Id": "3SlotRunicAlloy2",
+    "Runes": [
+      13,
+      15,
+      16
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5050,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      40,
+      49,
+      76,
+      99,
+      109,
+      120,
+      133,
+      137
+    ],
+    "DisabledText": 9555
+  },
+  {
+    "_index": 76,
+    "Id": "3SlotAdaptiveAlloy1",
+    "Runes": [
+      24,
+      15,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5051,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      40,
+      48,
+      52,
+      69,
+      76,
+      99,
+      120,
+      133,
+      137,
+      171
+    ],
+    "DisabledText": 9555
+  },
+  {
+    "_index": 77,
+    "Id": "3SlotLesserJewellersOrb1",
+    "Runes": [
+      16,
+      8,
+      12
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 32,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      43,
+      46,
+      65,
+      84,
+      89,
+      117
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 78,
+    "Id": "3SlotArmourersScrap6",
+    "Runes": [
+      18,
+      7,
+      1
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 6,
+    "RewardCount": 6,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      29,
+      42,
+      68,
+      166,
+      170
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 79,
+    "Id": "3SlotArcanistsEtcher6",
+    "Runes": [
+      14,
+      7,
+      17
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 1,
+    "RewardCount": 6,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      30,
+      42,
+      166
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 80,
+    "Id": "3SlotProtectiveAlloy1",
+    "Runes": [
+      23,
+      15,
+      5
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5052,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      40,
+      45,
+      70,
+      76,
+      99,
+      120,
+      133,
+      137,
+      172
+    ],
+    "DisabledText": 9555
+  },
+  {
+    "_index": 81,
+    "Id": "3SlotBlacksmithsWhetstone6",
+    "Runes": [
+      21,
+      7,
+      5
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 0,
+    "RewardCount": 6,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      28,
+      42,
+      45,
+      166
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 82,
+    "Id": "3SlotGreaterOrbofAugmentation1",
+    "Runes": [
+      4,
+      25,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 25,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      44,
+      107,
+      167
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 83,
+    "Id": "3SlotGlassblowersBauble2",
+    "Runes": [
+      16,
+      9,
+      14
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 28,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      41,
+      43,
+      58,
+      65,
+      89,
+      94,
+      128
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 84,
+    "Id": "3SlotGreaterOrbofTransmutation1",
+    "Runes": [
+      4,
+      25,
+      1
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 14,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      44,
+      107,
+      167
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 85,
+    "Id": "3SlotExpansiveAlloy1",
+    "Runes": [
+      17,
+      15,
+      14
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5053,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      40,
+      41,
+      58,
+      73,
+      76,
+      99,
+      120,
+      133,
+      137,
+      174
+    ],
+    "DisabledText": 9555
+  },
+  {
+    "_index": 86,
+    "Id": "3SlotDetonateLiving1",
+    "Runes": [
+      12,
+      1,
+      19
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5237,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      35,
+      81,
+      92,
+      124,
+      125,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 87,
+    "Id": "3SlotEternalMarch1",
+    "Runes": [
+      12,
+      1,
+      11
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5240,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      35,
+      81,
+      92,
+      124,
+      125,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 88,
+    "Id": "3SlotFragmentsofthePast1",
+    "Runes": [
+      12,
+      14,
+      2
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5246,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      35,
+      81,
+      87,
+      124,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 89,
+    "Id": "3SlotFrostFlameNova1",
+    "Runes": [
+      12,
+      1,
+      0
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5224,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      35,
+      81,
+      92,
+      124,
+      125,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 90,
+    "Id": "3SlotRepulsion1",
+    "Runes": [
+      12,
+      24,
+      11
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5232,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      35,
+      81,
+      124,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 91,
+    "Id": "3SlotRuneHazard1",
+    "Runes": [
+      12,
+      2,
+      13
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5247,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      35,
+      81,
+      124,
+      126,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 92,
+    "Id": "3SlotConcussiveRunes1",
+    "Runes": [
+      12,
+      16,
+      18
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5222,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      35,
+      81,
+      124,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 93,
+    "Id": "3SlotBitterDead1",
+    "Runes": [
+      15,
+      1,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5239,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      47,
+      80,
+      92,
+      125
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 94,
+    "Id": "3SlotGrimPillars1",
+    "Runes": [
+      17,
+      1,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5241,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      47,
+      73,
+      80,
+      92,
+      125,
+      174
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 95,
+    "Id": "3SlotRemnantsofKalguur1",
+    "Runes": [
+      23,
+      14,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5243,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      47,
+      70,
+      80,
+      87,
+      172
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 96,
+    "Id": "3SlotVerisiumInfusion1",
+    "Runes": [
+      8,
+      24,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5230,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      47,
+      64,
+      80,
+      169
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 97,
+    "Id": "3SlotVerisiumManifestation1",
+    "Runes": [
+      15,
+      21,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5242,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      47,
+      54,
+      80,
+      91
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 98,
+    "Id": "3SlotRuneforgedBlades1",
+    "Runes": [
+      17,
+      10,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5229,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      47,
+      73,
+      80,
+      174
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 99,
+    "Id": "3SlotScouringFlame1",
+    "Runes": [
+      17,
+      0,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5250,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      47,
+      73,
+      80,
+      83,
+      127,
+      174
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 100,
+    "Id": "3SlotAnimusSplinters1",
+    "Runes": [
+      1,
+      23,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5249,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      50,
+      90,
+      108,
+      111
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 101,
+    "Id": "3SlotExplosiveTransmutation1",
+    "Runes": [
+      1,
+      23,
+      0
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5471,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      50,
+      90,
+      108,
+      111
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 102,
+    "Id": "3SlotHollowShell1",
+    "Runes": [
+      8,
+      23,
+      24
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5225,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      50,
+      64,
+      90,
+      108,
+      169
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 103,
+    "Id": "3SlotVoltaicBarrier1",
+    "Runes": [
+      27,
+      23,
+      2
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5468,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      50,
+      90,
+      108
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 104,
+    "Id": "3SlotWardboundMinions1",
+    "Runes": [
+      3,
+      23,
+      12
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5245,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      50,
+      90,
+      108,
+      117
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 105,
+    "Id": "3SlotFistofKalguur1",
+    "Runes": [
+      5,
+      23,
+      21
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5467,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      50,
+      90,
+      108
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 106,
+    "Id": "3SlotRunicExtraction1",
+    "Runes": [
+      15,
+      23,
+      12
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5244,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      50,
+      90,
+      108,
+      117
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 107,
+    "Id": "3SlotRunicInfusion1",
+    "Runes": [
+      10,
+      23,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5227,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      50,
+      90,
+      108
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 108,
+    "Id": "3SlotRainOfBlades",
+    "Runes": [
+      8,
+      23,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5472,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      50,
+      64,
+      90,
+      108,
+      169
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 109,
+    "Id": "3SlotGemcuttersPrism2",
+    "Runes": [
+      16,
+      19,
+      26
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 29,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      43,
+      65,
+      89,
+      104
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 110,
+    "Id": "3SlotPileofVerisium1",
+    "Runes": [
+      12,
+      23,
+      27
+    ],
+    "Description": "Verisium Pile",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      35,
+      47,
+      50,
+      80,
+      81,
+      90,
+      108,
+      124,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 111,
+    "Id": "3SlotWardingRuneofReinforcement1",
+    "Runes": [
+      2,
+      27,
+      10
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5081,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      36,
+      38,
+      63,
+      93,
+      112,
+      164,
+      165,
+      168
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 112,
+    "Id": "3SlotWardingRuneofProtection1",
+    "Runes": [
+      13,
+      11,
+      10
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5082,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      33,
+      38,
+      57,
+      93,
+      164
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 113,
+    "Id": "3SlotWardingRuneofDisintegration1",
+    "Runes": [
+      1,
+      6,
+      10
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5083,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      38,
+      93,
+      111,
+      163,
+      164
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 114,
+    "Id": "3SlotWardingRuneofDesperation1",
+    "Runes": [
+      5,
+      6,
+      10
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5084,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      38,
+      93,
+      163,
+      164
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 115,
+    "Id": "3SlotWardingRuneofCourage1",
+    "Runes": [
+      1,
+      27,
+      10
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5086,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      36,
+      38,
+      63,
+      93,
+      111,
+      164,
+      165,
+      168
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 116,
+    "Id": "3SlotWardingRuneofNourishment1",
+    "Runes": [
+      15,
+      6,
+      10
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5090,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      38,
+      93,
+      163,
+      164
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 117,
+    "Id": "3SlotOrbofAlchemy1",
+    "Runes": [
+      7,
+      15,
+      16
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 9,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      34,
+      40,
+      49,
+      66,
+      76,
+      86,
+      99,
+      101,
+      109,
+      120,
+      133,
+      137,
+      139,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 118,
+    "Id": "4SlotAnimusExchange1",
+    "Runes": [
+      12,
+      16,
+      10,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5238,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      60,
+      81,
+      93,
+      124,
+      158,
+      159,
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 119,
+    "Id": "4SlotLeylines1",
+    "Runes": [
+      2,
+      19,
+      15,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5223,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      60,
+      112,
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 120,
+    "Id": "4SlotRuneWard1",
+    "Runes": [
+      5,
+      16,
+      15,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5466,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      60,
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 121,
+    "Id": "4SlotRunicFortress1",
+    "Runes": [
+      21,
+      16,
+      6,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5231,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      60,
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 122,
+    "Id": "4SlotTriskelionCascade1",
+    "Runes": [
+      1,
+      19,
+      6,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5233,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      60,
+      111,
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 123,
+    "Id": "4SlotVerisiumComet1",
+    "Runes": [
+      3,
+      19,
+      11,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5236,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      60,
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 124,
+    "Id": "4SlotHealingRunes1",
+    "Runes": [
+      10,
+      16,
+      11,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5469,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      60,
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 125,
+    "Id": "4SlotUniqueBow1",
+    "Runes": [
+      19,
+      13,
+      22,
+      4
+    ],
+    "Description": "[Rarity|Unique] Bow",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      56,
+      77,
+      102,
+      113,
+      130,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 126,
+    "Id": "4SlotUniqueCrossbow1",
+    "Runes": [
+      19,
+      10,
+      22,
+      4
+    ],
+    "Description": "[Rarity|Unique] Crossbow",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      56,
+      77,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 127,
+    "Id": "4SlotUniqueFocus1",
+    "Runes": [
+      19,
+      11,
+      22,
+      8
+    ],
+    "Description": "[Rarity|Unique] Focus",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      57,
+      77,
+      82,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 128,
+    "Id": "4SlotUniqueOneHandMace1",
+    "Runes": [
+      19,
+      21,
+      22,
+      8
+    ],
+    "Description": "[Rarity|Unique] One Hand Mace",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      54,
+      77,
+      82,
+      91,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 129,
+    "Id": "4SlotUniqueQuarterstaff1",
+    "Runes": [
+      19,
+      21,
+      22,
+      7
+    ],
+    "Description": "[Rarity|Unique] Quarterstaff",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      54,
+      77,
+      91,
+      113,
+      134,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 130,
+    "Id": "4SlotUniqueQuiver1",
+    "Runes": [
+      19,
+      11,
+      22,
+      21
+    ],
+    "Description": "[Rarity|Unique] Quiver",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      57,
+      77,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 131,
+    "Id": "4SlotUniqueSceptre1",
+    "Runes": [
+      19,
+      11,
+      22,
+      8
+    ],
+    "Description": "[Rarity|Unique] Sceptre",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      57,
+      77,
+      82,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 132,
+    "Id": "4SlotUniqueShield1",
+    "Runes": [
+      19,
+      11,
+      22,
+      16
+    ],
+    "Description": "[Rarity|Unique] Shield",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      57,
+      77,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 133,
+    "Id": "4SlotUniqueSpear1",
+    "Runes": [
+      19,
+      21,
+      22,
+      4
+    ],
+    "Description": "[Rarity|Unique] Spear",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      54,
+      56,
+      77,
+      91,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 134,
+    "Id": "4SlotUniqueStaff1",
+    "Runes": [
+      19,
+      8,
+      22,
+      4
+    ],
+    "Description": "[Rarity|Unique] Staff",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      56,
+      77,
+      84,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 135,
+    "Id": "4SlotUniqueTalisman1",
+    "Runes": [
+      19,
+      21,
+      22,
+      5
+    ],
+    "Description": "[Rarity|Unique] Talisman",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      54,
+      77,
+      91,
+      113,
+      154,
+      162
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 136,
+    "Id": "4SlotUniqueTwoHandMace1",
+    "Runes": [
+      19,
+      21,
+      22,
+      14
+    ],
+    "Description": "[Rarity|Unique] Two Hand Mace",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      54,
+      77,
+      91,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 137,
+    "Id": "4SlotUniqueWand1",
+    "Runes": [
+      19,
+      8,
+      22,
+      4
+    ],
+    "Description": "[Rarity|Unique] Wand",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      56,
+      77,
+      84,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 138,
+    "Id": "4SlotExaltedOrb3",
+    "Runes": [
+      7,
+      18,
+      28,
+      12
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 18,
+    "RewardCount": 3,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      59,
+      61,
+      66,
+      67,
+      86,
+      101,
+      139,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 139,
+    "Id": "4SlotGlassblowersBauble3",
+    "Runes": [
+      16,
+      9,
+      14,
+      17
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 28,
+    "RewardCount": 3,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      58,
+      65,
+      89,
+      94,
+      128
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 140,
+    "Id": "4SlotGemcuttersPrism3",
+    "Runes": [
+      16,
+      28,
+      13,
+      17
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 29,
+    "RewardCount": 3,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      65,
+      89
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 141,
+    "Id": "4SlotWardingRuneofStability1",
+    "Runes": [
+      1,
+      27,
+      8,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5087,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      62,
+      63,
+      79,
+      111,
+      118,
+      168
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 142,
+    "Id": "4SlotWardingRuneofGlancing1",
+    "Runes": [
+      14,
+      27,
+      11,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5088,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      62,
+      63,
+      79,
+      168
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 143,
+    "Id": "4SlotWardingRuneoftheHeart1",
+    "Runes": [
+      10,
+      27,
+      13,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5089,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      62,
+      63,
+      79,
+      168
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 144,
+    "Id": "4SlotWardingRuneofAnnihilation1",
+    "Runes": [
+      13,
+      27,
+      10,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5091,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      62,
+      63,
+      79,
+      93,
+      168
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 145,
+    "Id": "4SlotWardingRuneofSalvaging1",
+    "Runes": [
+      12,
+      27,
+      18,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5095,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      62,
+      63,
+      79,
+      81,
+      124,
+      158,
+      159,
+      168
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 146,
+    "Id": "4SlotWardingRuneofSymbiosis1",
+    "Runes": [
+      3,
+      27,
+      25,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5085,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      62,
+      63,
+      79,
+      168
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 147,
+    "Id": "4SlotOrbofAlchemy3",
+    "Runes": [
+      7,
+      18,
+      14,
+      10
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 9,
+    "RewardCount": 3,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      58,
+      59,
+      66,
+      86,
+      101,
+      139,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 148,
+    "Id": "4SlotChaosOrb2",
+    "Runes": [
+      7,
+      30,
+      0,
+      15
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 3,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      66,
+      72,
+      86,
+      101,
+      139,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 149,
+    "Id": "4SlotCyclonicAlloy1",
+    "Runes": [
+      21,
+      15,
+      14,
+      12
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5055,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      58,
+      61,
+      76,
+      99,
+      120,
+      133,
+      137
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 150,
+    "Id": "4SlotGreaterJewellersOrb1",
+    "Runes": [
+      16,
+      30,
+      7,
+      12
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 33,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      61,
+      65,
+      72,
+      89
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 151,
+    "Id": "4SlotSwiftAlloy1",
+    "Runes": [
+      7,
+      15,
+      28,
+      15
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5054,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      66,
+      67,
+      76,
+      86,
+      99,
+      101,
+      120,
+      133,
+      137,
+      139,
+      153
+    ],
+    "DisabledText": 9555
+  },
+  {
+    "_index": 152,
+    "Id": "4SlotUniqueJewellery1",
+    "Runes": [
+      9,
+      18,
+      22,
+      12
+    ],
+    "Description": "[Rarity|Unique] Jewellery",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      59,
+      61,
+      71,
+      114,
+      173
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 153,
+    "Id": "4SlotRuneofConsistency1",
+    "Runes": [
+      18,
+      10,
+      1,
+      7
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5115,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      68,
+      134,
+      170
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 154,
+    "Id": "4SlotRuneofReach1",
+    "Runes": [
+      24,
+      10,
+      1,
+      17
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5116,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      69,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 155,
+    "Id": "4SlotRuneofFoundations1",
+    "Runes": [
+      24,
+      12,
+      1,
+      25
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5117,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      69,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 156,
+    "Id": "4SlotRuneofthePrism1",
+    "Runes": [
+      18,
+      16,
+      1,
+      25
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5118,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      68,
+      170
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 157,
+    "Id": "4SlotRuneoftheSoul1",
+    "Runes": [
+      8,
+      10,
+      0,
+      25
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5119,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      64,
+      169
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 158,
+    "Id": "4SlotRuneofCulmination1",
+    "Runes": [
+      24,
+      12,
+      0,
+      18
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5120,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      69,
+      103,
+      146,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 159,
+    "Id": "4SlotRuneofRenown1",
+    "Runes": [
+      8,
+      12,
+      0,
+      11
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5121,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      64,
+      169
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 160,
+    "Id": "4SlotRuneofAccumulation1",
+    "Runes": [
+      23,
+      10,
+      0,
+      11
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5122,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      70,
+      172
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 161,
+    "Id": "4SlotRuneoftheAdept1",
+    "Runes": [
+      18,
+      12,
+      2,
+      11
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5123,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      68,
+      170
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 162,
+    "Id": "4SlotRuneofDashing1",
+    "Runes": [
+      23,
+      12,
+      4,
+      13
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5124,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      70,
+      123,
+      172
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 163,
+    "Id": "4SlotRuneofAcrobatics1",
+    "Runes": [
+      8,
+      4,
+      2,
+      13
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5125,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      64,
+      169
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 164,
+    "Id": "4SlotArchaicRuneofSplinters1",
+    "Runes": [
+      18,
+      3,
+      2,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5102,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      68,
+      170
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 165,
+    "Id": "4SlotArchaicRuneoftheHorde1",
+    "Runes": [
+      17,
+      5,
+      4,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5111,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      73,
+      88,
+      123,
+      174
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 166,
+    "Id": "4SlotArchaicRuneofAnimosity1",
+    "Runes": [
+      17,
+      4,
+      21,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5112,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      73,
+      174
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 167,
+    "Id": "4SlotArchaicRuneofDetonation1",
+    "Runes": [
+      9,
+      7,
+      3,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5113,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      71,
+      114,
+      173
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 168,
+    "Id": "4SlotArchaicRuneofRetaliation1",
+    "Runes": [
+      17,
+      23,
+      4,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5114,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      73,
+      90,
+      108,
+      123,
+      174
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 169,
+    "Id": "4SlotArchaicRuneofDueling1",
+    "Runes": [
+      17,
+      24,
+      6,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5103,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      73,
+      174
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 170,
+    "Id": "4SlotRuneofVitalFlame1",
+    "Runes": [
+      17,
+      2,
+      24,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5126,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      73,
+      126,
+      143,
+      174
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 171,
+    "Id": "4SlotRuneofConfrontation1",
+    "Runes": [
+      23,
+      14,
+      10,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5127,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      70,
+      87,
+      93,
+      143,
+      172
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 172,
+    "Id": "4SlotArchaicRuneoftheTitan1",
+    "Runes": [
+      9,
+      5,
+      21,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5104,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      71,
+      88,
+      114,
+      173
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 173,
+    "Id": "4SlotArchaicRuneofShattering1",
+    "Runes": [
+      9,
+      14,
+      2,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5105,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      71,
+      87,
+      114,
+      173
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 174,
+    "Id": "4SlotArchaicRuneofProwess1",
+    "Runes": [
+      23,
+      4,
+      8,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5106,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      70,
+      118,
+      172
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 175,
+    "Id": "4SlotArchaicRuneofControl1",
+    "Runes": [
+      24,
+      7,
+      18,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5107,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      69,
+      171
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 176,
+    "Id": "4SlotArchaicRuneofDiscovery1",
+    "Runes": [
+      9,
+      19,
+      23,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5108,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      71,
+      97,
+      114,
+      116,
+      173
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 177,
+    "Id": "4SlotArchaicRuneofDecay1",
+    "Runes": [
+      9,
+      7,
+      8,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5109,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      71,
+      114,
+      118,
+      173
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 178,
+    "Id": "4SlotArchaicRuneofWitchcraft1",
+    "Runes": [
+      8,
+      5,
+      19,
+      20
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5110,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4430,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      64,
+      88,
+      169
+    ],
+    "DisabledText": 9556
+  },
+  {
+    "_index": 179,
+    "Id": "4SlotUniqueAmulet1",
+    "Runes": [
+      19,
+      1,
+      0,
+      22
+    ],
+    "Description": "[Rarity|Unique] Amulet",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      74,
+      77,
+      92,
+      113,
+      125,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 180,
+    "Id": "4SlotUniqueBelt1",
+    "Runes": [
+      19,
+      26,
+      27,
+      22
+    ],
+    "Description": "[Rarity|Unique] Belt",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      74,
+      77,
+      80,
+      85,
+      113,
+      138,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 181,
+    "Id": "4SlotUniqueRing1",
+    "Runes": [
+      19,
+      23,
+      1,
+      22
+    ],
+    "Description": "[Rarity|Unique] Ring",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      74,
+      77,
+      90,
+      108,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 182,
+    "Id": "4SlotGreaterRegalOrb1",
+    "Runes": [
+      30,
+      12,
+      25,
+      18
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 22,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      55,
+      100,
+      103,
+      146
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 183,
+    "Id": "4SlotGreaterExaltedOrb1",
+    "Runes": [
+      30,
+      8,
+      26,
+      16
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 19,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      55,
+      84,
+      100,
+      104
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 184,
+    "Id": "4SlotGreaterChaosOrb1",
+    "Runes": [
+      30,
+      10,
+      21,
+      17
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 4,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      55,
+      100
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 185,
+    "Id": "4SlotDivineOrb1",
+    "Runes": [
+      29,
+      28,
+      32,
+      25
+    ],
+    "Description": "",
+    "RuneCountRequired": 4,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 36,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      75,
+      98,
+      121,
+      152,
+      157
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 186,
+    "Id": "5SlotUncutSpiritGem(Level19)1",
+    "Runes": [
+      4,
+      8,
+      16,
+      25,
+      14
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 4923,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      84,
+      96,
+      107,
+      109
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 187,
+    "Id": "5SlotUncutSkillGem(Level19)1",
+    "Runes": [
+      4,
+      0,
+      10,
+      1,
+      16
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 4901,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      83,
+      93,
+      107,
+      127
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 188,
+    "Id": "5SlotAstackofrandomcurrency1",
+    "Runes": [
+      7,
+      20,
+      29,
+      3,
+      14
+    ],
+    "Description": "5x Random Currency",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      86,
+      95,
+      96,
+      101,
+      139,
+      143,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 189,
+    "Id": "5SlotWardingRuneofArmature1",
+    "Runes": [
+      27,
+      17,
+      26,
+      6,
+      13
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5092,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      79,
+      104
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 190,
+    "Id": "5SlotWardingRuneofObsession1",
+    "Runes": [
+      27,
+      25,
+      21,
+      6,
+      0
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5093,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      79
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 191,
+    "Id": "5SlotWardingRuneofEquinox1",
+    "Runes": [
+      27,
+      3,
+      11,
+      6,
+      5
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5094,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      79
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 192,
+    "Id": "5SlotWardingRuneofBodyguards1",
+    "Runes": [
+      27,
+      11,
+      30,
+      6,
+      16
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5096,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      79
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 193,
+    "Id": "5SlotWardingRuneofHollowing1",
+    "Runes": [
+      27,
+      2,
+      28,
+      6,
+      8
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5097,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      79,
+      126
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 194,
+    "Id": "5SlotGreaterOrbofAugmentation3",
+    "Runes": [
+      15,
+      8,
+      10,
+      7,
+      26
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 25,
+    "RewardCount": 3,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      78,
+      84,
+      93,
+      134
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 195,
+    "Id": "5SlotGreaterOrbofTransmutation3",
+    "Runes": [
+      17,
+      0,
+      1,
+      7,
+      26
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 14,
+    "RewardCount": 3,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      78,
+      83,
+      127,
+      134
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 196,
+    "Id": "5SlotLevel20DetonateLiving1",
+    "Runes": [
+      12,
+      17,
+      19,
+      0,
+      25
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5237,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      81,
+      124,
+      141,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 197,
+    "Id": "5SlotLevel20EternalMarch1",
+    "Runes": [
+      12,
+      16,
+      11,
+      15,
+      25
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5240,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      81,
+      124,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 198,
+    "Id": "5SlotLevel20FragmentsofthePast1",
+    "Runes": [
+      12,
+      3,
+      2,
+      9,
+      25
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5246,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      81,
+      124,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 199,
+    "Id": "5SlotLevel20FrostFlameNova1",
+    "Runes": [
+      12,
+      2,
+      0,
+      4,
+      25
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5224,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      81,
+      124,
+      126,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 200,
+    "Id": "5SlotLevel20Repulsion1",
+    "Runes": [
+      12,
+      24,
+      11,
+      2,
+      25
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5232,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      81,
+      124,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 201,
+    "Id": "5SlotLevel20RuneHazard1",
+    "Runes": [
+      12,
+      2,
+      13,
+      13,
+      25
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5247,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      81,
+      124,
+      126,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 202,
+    "Id": "5SlotLevel20BitterDead1",
+    "Runes": [
+      15,
+      16,
+      27,
+      9,
+      28
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5239,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      80
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 203,
+    "Id": "5SlotLevel20GrimPillars1",
+    "Runes": [
+      17,
+      24,
+      27,
+      4,
+      28
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5241,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      80
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 204,
+    "Id": "5SlotLevel20RemnantsofKalguur1",
+    "Runes": [
+      23,
+      3,
+      27,
+      2,
+      28
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5243,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      80
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 205,
+    "Id": "5SlotLevel20VerisiumInfusion1",
+    "Runes": [
+      8,
+      24,
+      27,
+      13,
+      28
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5230,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      80
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 206,
+    "Id": "5SlotLevel20VerisiumManifestation1",
+    "Runes": [
+      15,
+      2,
+      27,
+      1,
+      28
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5242,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      80,
+      126
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 207,
+    "Id": "5SlotOrbofChance1",
+    "Runes": [
+      19,
+      31,
+      21,
+      5,
+      15
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 10,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      77,
+      113,
+      154,
+      162
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 208,
+    "Id": "5SlotRareUnique1",
+    "Runes": [
+      19,
+      22,
+      11,
+      21,
+      26
+    ],
+    "Description": "Rare [Rarity|Unique] Item",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      77,
+      78,
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 209,
+    "Id": "5SlotPerfectJewellersOrb1",
+    "Runes": [
+      16,
+      7,
+      29,
+      25,
+      17
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 34,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      89,
+      95
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 210,
+    "Id": "5SlotPrismaticAlloy1",
+    "Runes": [
+      16,
+      15,
+      7,
+      20,
+      26
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5056,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      78,
+      89,
+      99,
+      120,
+      133,
+      137
+    ],
+    "DisabledText": 9555
+  },
+  {
+    "_index": 211,
+    "Id": "5SlotMasterworkRune1",
+    "Runes": [
+      16,
+      22,
+      23,
+      8,
+      15
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 704,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      82,
+      89,
+      97,
+      116
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 212,
+    "Id": "5SlotMysticAlloy1",
+    "Runes": [
+      7,
+      15,
+      31,
+      8,
+      10
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5057,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      82,
+      86,
+      99,
+      101,
+      120,
+      133,
+      137,
+      139,
+      153
+    ],
+    "DisabledText": 9555
+  },
+  {
+    "_index": 213,
+    "Id": "5SlotChaosOrb3",
+    "Runes": [
+      7,
+      30,
+      29,
+      15,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 3,
+    "RewardCount": 3,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      86,
+      95,
+      101,
+      139,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 214,
+    "Id": "5SlotCraiceannsRuneofWarding1",
+    "Runes": [
+      25,
+      14,
+      1,
+      31,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 688,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      87
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 215,
+    "Id": "5SlotSaqawalsRuneofErosion1",
+    "Runes": [
+      15,
+      23,
+      13,
+      31,
+      9
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 690,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      90,
+      108
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 216,
+    "Id": "5SlotFarrulsRuneoftheHunt1",
+    "Runes": [
+      13,
+      5,
+      26,
+      31,
+      21
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 691,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      88,
+      104
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 217,
+    "Id": "5SlotCraiceannsRuneofRecovery1",
+    "Runes": [
+      29,
+      14,
+      28,
+      31,
+      21
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 692,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      87
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 218,
+    "Id": "5SlotFenumusRuneofSpinning1",
+    "Runes": [
+      4,
+      9,
+      3,
+      31,
+      11
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 695,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      94,
+      107,
+      128
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 219,
+    "Id": "5SlotFenumusRuneofDraining1",
+    "Runes": [
+      29,
+      9,
+      1,
+      31,
+      8
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 698,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      94,
+      128
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 220,
+    "Id": "5SlotThaneMyrksRuneofSummer1",
+    "Runes": [
+      0,
+      26,
+      21,
+      31,
+      29
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 699,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      85,
+      110,
+      138
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 221,
+    "Id": "5SlotLadyHestrasRuneofWinter1",
+    "Runes": [
+      14,
+      1,
+      12,
+      31,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 700,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      92,
+      117,
+      125
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 222,
+    "Id": "5SlotThaneLeldsRuneofSpring1",
+    "Runes": [
+      2,
+      26,
+      17,
+      31,
+      10
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 701,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      85,
+      112,
+      138
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 223,
+    "Id": "5SlotTheGreatwolfsRuneofClaws1",
+    "Runes": [
+      5,
+      21,
+      4,
+      31,
+      9
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 702,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      91,
+      123
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 224,
+    "Id": "5SlotTheGreatwolfsRuneofWillpower1",
+    "Runes": [
+      14,
+      21,
+      9,
+      31,
+      4
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 703,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      91
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 225,
+    "Id": "5SlotSaqawalsRuneoftheSky1",
+    "Runes": [
+      15,
+      23,
+      5,
+      31,
+      17
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 684,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      90,
+      108
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 226,
+    "Id": "5SlotFenumusRuneofAgony1",
+    "Runes": [
+      17,
+      9,
+      7,
+      31,
+      13
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 685,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      94,
+      128
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 227,
+    "Id": "5SlotFarrulsRuneofGrace1",
+    "Runes": [
+      4,
+      5,
+      7,
+      31,
+      25
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 686,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      88,
+      107
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 228,
+    "Id": "5SlotPerfectOrbofAugmentation1",
+    "Runes": [
+      7,
+      31,
+      23,
+      14,
+      15
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 26,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      86,
+      97,
+      101,
+      116,
+      139,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 229,
+    "Id": "5SlotPerfectOrbofTransmutation1",
+    "Runes": [
+      7,
+      29,
+      23,
+      30,
+      19
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 15,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      86,
+      97,
+      101,
+      116,
+      139,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 230,
+    "Id": "5SlotThaneGrannellsRuneofMastery1",
+    "Runes": [
+      10,
+      26,
+      14,
+      31,
+      16
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 694,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      85,
+      138
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 231,
+    "Id": "5SlotSaqawalsRuneofMemory1",
+    "Runes": [
+      8,
+      23,
+      28,
+      31,
+      18
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 689,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      90,
+      108
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 232,
+    "Id": "5SlotCourtesanMannansRuneofCruelty1",
+    "Runes": [
+      5,
+      1,
+      9,
+      31,
+      17
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 693,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      92,
+      125
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 233,
+    "Id": "5SlotThaneGirtsRuneofWildness1",
+    "Runes": [
+      21,
+      26,
+      21,
+      31,
+      17
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 697,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      85,
+      138
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 234,
+    "Id": "5SlotDivineOrb2",
+    "Runes": [
+      29,
+      28,
+      32,
+      25,
+      13
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 36,
+    "RewardCount": 2,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      98,
+      121,
+      152,
+      157
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 235,
+    "Id": "6SlotLevel20AnimusExchange1",
+    "Runes": [
+      8,
+      16,
+      10,
+      27,
+      22,
+      30
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5238,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 236,
+    "Id": "6SlotLevel20Leylines1",
+    "Runes": [
+      8,
+      19,
+      15,
+      27,
+      22,
+      25
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5223,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      144,
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 237,
+    "Id": "6SlotLevel20RuneWard1",
+    "Runes": [
+      5,
+      16,
+      15,
+      27,
+      22,
+      28
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5466,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      132,
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 238,
+    "Id": "6SlotLevel20RunicFortress1",
+    "Runes": [
+      21,
+      16,
+      6,
+      27,
+      22,
+      29
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5231,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 239,
+    "Id": "6SlotLevel20TriskelionCascade1",
+    "Runes": [
+      8,
+      19,
+      6,
+      27,
+      22,
+      26
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5233,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 240,
+    "Id": "6SlotLevel20VerisiumComet1",
+    "Runes": [
+      3,
+      19,
+      11,
+      27,
+      22,
+      30
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5236,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      160
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 241,
+    "Id": "6SlotGreaterExaltedOrb3",
+    "Runes": [
+      30,
+      8,
+      26,
+      10,
+      20,
+      16
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 19,
+    "RewardCount": 3,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      100,
+      104
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 242,
+    "Id": "6SlotGreaterChaosOrb3",
+    "Runes": [
+      30,
+      27,
+      21,
+      17,
+      20,
+      31
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 4,
+    "RewardCount": 3,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      100,
+      105
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 243,
+    "Id": "6SlotGreaterRegalOrb3",
+    "Runes": [
+      30,
+      12,
+      4,
+      18,
+      20,
+      5
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 22,
+    "RewardCount": 3,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      100,
+      103,
+      123,
+      146
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 244,
+    "Id": "6SlotMedvedsLogbook1",
+    "Runes": [
+      21,
+      13,
+      5,
+      18,
+      31,
+      22
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 1443,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      102,
+      103,
+      130,
+      146
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 245,
+    "Id": "6SlotUhtredsLogbook1",
+    "Runes": [
+      27,
+      13,
+      6,
+      8,
+      22,
+      31
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 1445,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      102,
+      105,
+      130
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 246,
+    "Id": "6SlotVoranasLogbook1",
+    "Runes": [
+      18,
+      13,
+      26,
+      31,
+      22,
+      9
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 1444,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      102,
+      104,
+      130
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 247,
+    "Id": "6SlotOlrothsLogbook1",
+    "Runes": [
+      3,
+      13,
+      31,
+      19,
+      22,
+      32
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 1446,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      102,
+      106,
+      130,
+      149
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 248,
+    "Id": "6SlotLevel20AnimusSplinters1",
+    "Runes": [
+      5,
+      23,
+      7,
+      21,
+      28,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5249,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      108
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 249,
+    "Id": "6SlotLevel20ExplosiveTransmutation1",
+    "Runes": [
+      17,
+      23,
+      0,
+      17,
+      26,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5471,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      108
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 250,
+    "Id": "6SlotLevel20HollowShell1",
+    "Runes": [
+      8,
+      23,
+      5,
+      16,
+      25,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5225,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      108
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 251,
+    "Id": "6SlotLevel20VoltaicBarrier1",
+    "Runes": [
+      11,
+      23,
+      24,
+      6,
+      29,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5468,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      108
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 252,
+    "Id": "6SlotLevel20WardboundMinions1",
+    "Runes": [
+      15,
+      23,
+      9,
+      11,
+      30,
+      27
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5245,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      108
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 253,
+    "Id": "6SlotLevel20RainOfBlades",
+    "Runes": [
+      3,
+      23,
+      27,
+      8,
+      6,
+      21
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5472,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 20,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      108
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 254,
+    "Id": "6SlotChillingFlux1",
+    "Runes": [
+      1,
+      12,
+      16,
+      29,
+      14,
+      18
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5069,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      109,
+      111
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 255,
+    "Id": "6SlotBlazingFlux1",
+    "Runes": [
+      0,
+      24,
+      16,
+      28,
+      21,
+      15
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5068,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      109,
+      110
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 256,
+    "Id": "6SlotCracklingFlux1",
+    "Runes": [
+      2,
+      19,
+      16,
+      10,
+      30,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5070,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      109,
+      112
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 257,
+    "Id": "6SlotCountessSeskesRuneofArchery1",
+    "Runes": [
+      31,
+      3,
+      23,
+      22,
+      27,
+      30
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 696,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      115,
+      116
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 258,
+    "Id": "6SlotHedgewitchAssandrasRuneofWisdom1",
+    "Runes": [
+      31,
+      27,
+      8,
+      22,
+      23,
+      30
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 683,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      115,
+      118
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 259,
+    "Id": "6SlotFarrulsRuneoftheChase1",
+    "Runes": [
+      31,
+      5,
+      12,
+      22,
+      29,
+      30
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 687,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      115,
+      117
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 260,
+    "Id": "6SlotPerfectExaltedOrb1",
+    "Runes": [
+      7,
+      25,
+      24,
+      32,
+      20,
+      30
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 20,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      101,
+      122,
+      139,
+      148,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 261,
+    "Id": "6SlotVoidFlux1",
+    "Runes": [
+      9,
+      31,
+      7,
+      28,
+      32,
+      29
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5071,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      114,
+      119
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 262,
+    "Id": "6SlotUncutSpiritGemLevel201",
+    "Runes": [
+      4,
+      8,
+      28,
+      22,
+      16,
+      30
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 4924,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      107
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 263,
+    "Id": "6SlotUncutSkillGemLevel201",
+    "Runes": [
+      4,
+      0,
+      29,
+      22,
+      11,
+      28
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 4902,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 2,
+    "RuneWeights": [
+      107,
+      127,
+      132
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 264,
+    "Id": "6SlotDivineOrb3",
+    "Runes": [
+      29,
+      28,
+      32,
+      25,
+      13,
+      19
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 36,
+    "RewardCount": 3,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      121,
+      152,
+      157
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 265,
+    "Id": "6SlotPerfectChaosOrb1",
+    "Runes": [
+      7,
+      19,
+      30,
+      32,
+      20,
+      19
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      101,
+      122,
+      139,
+      148,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 266,
+    "Id": "6SlotSovereignAlloy1",
+    "Runes": [
+      7,
+      15,
+      18,
+      9,
+      32,
+      30
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5058,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      101,
+      119,
+      120,
+      133,
+      137,
+      139,
+      153
+    ],
+    "DisabledText": 9555
+  },
+  {
+    "_index": 267,
+    "Id": "6SlotOrbofChance2",
+    "Runes": [
+      19,
+      28,
+      5,
+      21,
+      23,
+      3
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 10,
+    "RewardCount": 2,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      113,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 268,
+    "Id": "6SlotOrbofAnnulment1",
+    "Runes": [
+      12,
+      4,
+      15,
+      31,
+      18,
+      13
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 196,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      124,
+      142,
+      158,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 269,
+    "Id": "7SlotAldursLogbook1",
+    "Runes": [
+      22,
+      13,
+      25,
+      27,
+      32,
+      8,
+      31
+    ],
+    "Description": "",
+    "RuneCountRequired": 7,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 1442,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      130,
+      131
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 270,
+    "Id": "7SlotOrbofAnnulment2",
+    "Runes": [
+      12,
+      8,
+      13,
+      15,
+      12,
+      2,
+      32
+    ],
+    "Description": "",
+    "RuneCountRequired": 7,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 196,
+    "RewardCount": 2,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      124,
+      150,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 271,
+    "Id": "7SlotCelestialAlloy1",
+    "Runes": [
+      24,
+      15,
+      19,
+      7,
+      32,
+      28,
+      12
+    ],
+    "Description": "",
+    "RuneCountRequired": 7,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5059,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      132,
+      133,
+      134,
+      137
+    ],
+    "DisabledText": 9555
+  },
+  {
+    "_index": 272,
+    "Id": "7SlotKalguuranAlloy1",
+    "Runes": [
+      23,
+      15,
+      4,
+      21,
+      32,
+      10,
+      29
+    ],
+    "Description": "",
+    "RuneCountRequired": 7,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5060,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      123,
+      133,
+      137
+    ],
+    "DisabledText": 9555
+  },
+  {
+    "_index": 273,
+    "Id": "7SlotBreathofAldur1",
+    "Runes": [
+      28,
+      1,
+      12,
+      14,
+      32,
+      22,
+      26
+    ],
+    "Description": "",
+    "RuneCountRequired": 7,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5099,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      125,
+      129
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 274,
+    "Id": "7SlotPassionofAldur1",
+    "Runes": [
+      28,
+      0,
+      21,
+      25,
+      32,
+      22,
+      24
+    ],
+    "Description": "",
+    "RuneCountRequired": 7,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5098,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      127,
+      129
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 275,
+    "Id": "7SlotIreofAldur1",
+    "Runes": [
+      28,
+      2,
+      10,
+      23,
+      32,
+      22,
+      19
+    ],
+    "Description": "",
+    "RuneCountRequired": 7,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5100,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      126,
+      129
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 276,
+    "Id": "7SlotAstridsCreativity1",
+    "Runes": [
+      22,
+      8,
+      31,
+      7,
+      32,
+      17,
+      29
+    ],
+    "Description": "",
+    "RuneCountRequired": 7,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5139,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      131,
+      134
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 277,
+    "Id": "7SlotBetrayalofAldur1",
+    "Runes": [
+      28,
+      9,
+      26,
+      29,
+      32,
+      22,
+      17
+    ],
+    "Description": "",
+    "RuneCountRequired": 7,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5101,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      128,
+      129
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 278,
+    "Id": "7SlotCadigansEpiphany1",
+    "Runes": [
+      22,
+      23,
+      30,
+      11,
+      32,
+      28,
+      5
+    ],
+    "Description": "",
+    "RuneCountRequired": 7,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5138,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      131,
+      132,
+      135
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 279,
+    "Id": "8SlotAldurAlloy1",
+    "Runes": [
+      27,
+      15,
+      28,
+      12,
+      32,
+      2,
+      5,
+      22
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5061,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      135,
+      137
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 280,
+    "Id": "8SlotAncientAlloy1",
+    "Runes": [
+      27,
+      15,
+      31,
+      1,
+      32,
+      16,
+      18,
+      22
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5062,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4424,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 3,
+    "RuneWeights": [
+      136,
+      137
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 281,
+    "Id": "8SlotVoranasCarnage1",
+    "Runes": [
+      21,
+      26,
+      1,
+      0,
+      32,
+      5,
+      20,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5142,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      138,
+      141
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 282,
+    "Id": "8SlotKatlasGloom1",
+    "Runes": [
+      9,
+      26,
+      29,
+      15,
+      32,
+      13,
+      20,
+      19
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5145,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      138,
+      142
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 283,
+    "Id": "8SlotThrudsMight1",
+    "Runes": [
+      3,
+      26,
+      24,
+      29,
+      32,
+      27,
+      20,
+      15
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5143,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      138,
+      140
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 284,
+    "Id": "8SlotKolrsHunt1",
+    "Runes": [
+      4,
+      26,
+      23,
+      3,
+      32,
+      21,
+      20,
+      18
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5141,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      138,
+      143
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 285,
+    "Id": "8SlotMedvedsTending1",
+    "Runes": [
+      24,
+      26,
+      11,
+      16,
+      32,
+      25,
+      20,
+      7
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5144,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      138,
+      144
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 286,
+    "Id": "8SlotUhtredsSidereus1",
+    "Runes": [
+      31,
+      26,
+      18,
+      12,
+      32,
+      17,
+      20,
+      1
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5140,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      138,
+      145
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 287,
+    "Id": "8SlotSerlesTriumph1",
+    "Runes": [
+      22,
+      4,
+      11,
+      18,
+      32,
+      30,
+      23,
+      14
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5137,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      146
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 288,
+    "Id": "8SlotPerfectOrbofAugmentation3",
+    "Runes": [
+      7,
+      31,
+      20,
+      0,
+      31,
+      13,
+      5,
+      15
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 26,
+    "RewardCount": 3,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      135,
+      139,
+      140,
+      141,
+      142,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 289,
+    "Id": "8SlotPerfectOrbofTransmutation3",
+    "Runes": [
+      7,
+      29,
+      20,
+      3,
+      31,
+      25,
+      18,
+      1
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 15,
+    "RewardCount": 3,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      136,
+      139,
+      143,
+      144,
+      145,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 290,
+    "Id": "8SlotPerfectRegalOrb3",
+    "Runes": [
+      3,
+      9,
+      28,
+      18,
+      7,
+      15,
+      20,
+      32
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 23,
+    "RewardCount": 3,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      146,
+      147
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 291,
+    "Id": "9SlotExtremelyRareUnique1",
+    "Runes": [
+      19,
+      22,
+      18,
+      32,
+      24,
+      11,
+      16,
+      15,
+      0
+    ],
+    "Description": "Very Rare [Rarity|Unique] item",
+    "RuneCountRequired": 9,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": null,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 4,
+    "RuneWeights": [
+      148,
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 292,
+    "Id": "9SlotOrbofChance3",
+    "Runes": [
+      19,
+      20,
+      18,
+      27,
+      24,
+      11,
+      16,
+      15,
+      0
+    ],
+    "Description": "",
+    "RuneCountRequired": 9,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 10,
+    "RewardCount": 3,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      154
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 293,
+    "Id": "9SlotOrbofAnnulment3",
+    "Runes": [
+      12,
+      8,
+      13,
+      15,
+      12,
+      2,
+      16,
+      10,
+      32
+    ],
+    "Description": "",
+    "RuneCountRequired": 9,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 196,
+    "RewardCount": 3,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      151,
+      159
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 294,
+    "Id": "9SlotDivineOrb10",
+    "Runes": [
+      29,
+      28,
+      32,
+      25,
+      13,
+      19,
+      9,
+      16,
+      14
+    ],
+    "Description": "",
+    "RuneCountRequired": 9,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 36,
+    "RewardCount": 10,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      152,
+      157
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 295,
+    "Id": "9SlotPerfectExaltedOrb3",
+    "Runes": [
+      7,
+      25,
+      28,
+      6,
+      26,
+      30,
+      32,
+      29,
+      9
+    ],
+    "Description": "",
+    "RuneCountRequired": 9,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 20,
+    "RewardCount": 3,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      150,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 296,
+    "Id": "9SlotPerfectChaosOrb3",
+    "Runes": [
+      7,
+      23,
+      30,
+      21,
+      24,
+      32,
+      3,
+      25,
+      17
+    ],
+    "Description": "",
+    "RuneCountRequired": 9,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5,
+    "RewardCount": 3,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      149,
+      153
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 297,
+    "Id": "9SlotHinekorasLock1",
+    "Runes": [
+      20,
+      32,
+      27,
+      15,
+      26,
+      25,
+      31,
+      29,
+      26
+    ],
+    "Description": "",
+    "RuneCountRequired": 9,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 8,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      155
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 298,
+    "Id": "9SlotMirrorofKalandra1",
+    "Runes": [
+      32,
+      20,
+      31,
+      30,
+      29,
+      28,
+      26,
+      24,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 9,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 7,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      156
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 299,
+    "Id": "10SlotOlrothsBoon1",
+    "Runes": [
+      30,
+      22,
+      32,
+      16,
+      1,
+      15,
+      7,
+      11,
+      31,
+      26
+    ],
+    "Description": "",
+    "RuneCountRequired": 10,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5210,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": 1543,
+    "Category": 1,
+    "RuneWeights": [
+      157
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 300,
+    "Id": "10SlotVoranasBoon1",
+    "Runes": [
+      29,
+      22,
+      32,
+      16,
+      9,
+      18,
+      14,
+      11,
+      31,
+      26
+    ],
+    "Description": "",
+    "RuneCountRequired": 10,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5211,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": 1544,
+    "Category": 1,
+    "RuneWeights": [
+      157
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 301,
+    "Id": "10SlotUhtredsBoon1",
+    "Runes": [
+      27,
+      22,
+      32,
+      16,
+      2,
+      28,
+      8,
+      11,
+      31,
+      26
+    ],
+    "Description": "",
+    "RuneCountRequired": 10,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5212,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": 1545,
+    "Category": 1,
+    "RuneWeights": [
+      157
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 302,
+    "Id": "10SlotMedvedsBoon1",
+    "Runes": [
+      21,
+      22,
+      32,
+      16,
+      21,
+      17,
+      25,
+      11,
+      31,
+      26
+    ],
+    "Description": "",
+    "RuneCountRequired": 10,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5213,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": 1546,
+    "Category": 1,
+    "RuneWeights": [
+      157
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 303,
+    "Id": "10SlotOlrothsLegacyRune1",
+    "Runes": [
+      19,
+      22,
+      32,
+      16,
+      0,
+      29,
+      24,
+      11,
+      31,
+      26
+    ],
+    "Description": "",
+    "RuneCountRequired": 10,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5146,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 1,
+    "RuneWeights": [
+      157
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 304,
+    "Id": "8SlotCurrencyPerfectFlux1",
+    "Runes": [
+      22,
+      20,
+      30,
+      25,
+      32,
+      31,
+      19,
+      2
+    ],
+    "Description": "",
+    "RuneCountRequired": 8,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 5136,
+    "RewardCount": 1,
+    "SomeBool": false,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      161
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 305,
+    "Id": "3SlotLevel5Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 13,
+    "MaxLevelReq": 18,
+    "Reward": 4929,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 306,
+    "Id": "3SlotLevel6Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 19,
+    "MaxLevelReq": 22,
+    "Reward": 4930,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 307,
+    "Id": "3SlotLevel7Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 23,
+    "MaxLevelReq": 26,
+    "Reward": 4931,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 308,
+    "Id": "3SlotLevel8Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 27,
+    "MaxLevelReq": 31,
+    "Reward": 4932,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 309,
+    "Id": "3SlotLevel9Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 32,
+    "MaxLevelReq": 36,
+    "Reward": 4933,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 310,
+    "Id": "3SlotLevel10Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 37,
+    "MaxLevelReq": 41,
+    "Reward": 4934,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 311,
+    "Id": "3SlotLevel11Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 42,
+    "MaxLevelReq": 46,
+    "Reward": 4935,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 312,
+    "Id": "3SlotLevel12Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 47,
+    "MaxLevelReq": 52,
+    "Reward": 4936,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 313,
+    "Id": "3SlotLevel13Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 53,
+    "MaxLevelReq": 58,
+    "Reward": 4937,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 314,
+    "Id": "3SlotLevel14Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 59,
+    "MaxLevelReq": 61,
+    "Reward": 4938,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 315,
+    "Id": "3SlotLevel15Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 62,
+    "MaxLevelReq": 65,
+    "Reward": 4939,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 316,
+    "Id": "3SlotLevel16Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 66,
+    "MaxLevelReq": 70,
+    "Reward": 4940,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 317,
+    "Id": "3SlotLevel17Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 71,
+    "MaxLevelReq": 76,
+    "Reward": 4941,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 318,
+    "Id": "3SlotLevel18Flux1",
+    "Runes": [
+      24,
+      27,
+      6
+    ],
+    "Description": "",
+    "RuneCountRequired": 3,
+    "MinLevelReq": 77,
+    "MaxLevelReq": 100,
+    "Reward": 4942,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      36,
+      48,
+      52,
+      63,
+      69,
+      165,
+      168,
+      171
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 319,
+    "Id": "5SlotLevel19Flux1",
+    "Runes": [
+      4,
+      24,
+      27,
+      5,
+      8
+    ],
+    "Description": "",
+    "RuneCountRequired": 5,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 4943,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      80,
+      107,
+      162
+    ],
+    "DisabledText": null
+  },
+  {
+    "_index": 320,
+    "Id": "6SlotLevel20Flux1",
+    "Runes": [
+      4,
+      24,
+      27,
+      6,
+      8,
+      30
+    ],
+    "Description": "",
+    "RuneCountRequired": 6,
+    "MinLevelReq": 1,
+    "MaxLevelReq": 100,
+    "Reward": 4944,
+    "RewardCount": 1,
+    "SomeBool": true,
+    "SomeFlags": 4833,
+    "RewardGemLevel": 0,
+    "QuestFlag": null,
+    "Category": 0,
+    "RuneWeights": [
+      107
+    ],
+    "DisabledText": null
+  }
+]

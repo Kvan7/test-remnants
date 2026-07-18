@@ -1,0 +1,138 @@
+[
+  {
+    "_index": 0,
+    "Id": "Fire"
+  },
+  {
+    "_index": 1,
+    "Id": "Cold"
+  },
+  {
+    "_index": 2,
+    "Id": "Lightning"
+  },
+  {
+    "_index": 3,
+    "Id": "Tempest"
+  },
+  {
+    "_index": 4,
+    "Id": "Momentum"
+  },
+  {
+    "_index": 5,
+    "Id": "Bloodletting"
+  },
+  {
+    "_index": 6,
+    "Id": "Stone"
+  },
+  {
+    "_index": 7,
+    "Id": "Adaptive"
+  },
+  {
+    "_index": 8,
+    "Id": "Arcane"
+  },
+  {
+    "_index": 9,
+    "Id": "Toxic"
+  },
+  {
+    "_index": 10,
+    "Id": "Electrocuting"
+  },
+  {
+    "_index": 11,
+    "Id": "Protective"
+  },
+  {
+    "_index": 12,
+    "Id": "Cyclonic"
+  },
+  {
+    "_index": 13,
+    "Id": "Vision"
+  },
+  {
+    "_index": 14,
+    "Id": "Tidal"
+  },
+  {
+    "_index": 15,
+    "Id": "Rebirth"
+  },
+  {
+    "_index": 16,
+    "Id": "Prismatic"
+  },
+  {
+    "_index": 17,
+    "Id": "Gasp"
+  },
+  {
+    "_index": 18,
+    "Id": "Moon"
+  },
+  {
+    "_index": 19,
+    "Id": "Celestial"
+  },
+  {
+    "_index": 20,
+    "Id": "Opulent"
+  },
+  {
+    "_index": 21,
+    "Id": "Rage"
+  },
+  {
+    "_index": 22,
+    "Id": "Wisdom"
+  },
+  {
+    "_index": 23,
+    "Id": "Sky"
+  },
+  {
+    "_index": 24,
+    "Id": "Earth"
+  },
+  {
+    "_index": 25,
+    "Id": "Life"
+  },
+  {
+    "_index": 26,
+    "Id": "Bond"
+  },
+  {
+    "_index": 27,
+    "Id": "Ward"
+  },
+  {
+    "_index": 28,
+    "Id": "Soul"
+  },
+  {
+    "_index": 29,
+    "Id": "Death"
+  },
+  {
+    "_index": 30,
+    "Id": "Oath"
+  },
+  {
+    "_index": 31,
+    "Id": "Time"
+  },
+  {
+    "_index": 32,
+    "Id": "Power"
+  },
+  {
+    "_index": 33,
+    "Id": "Bait"
+  }
+]

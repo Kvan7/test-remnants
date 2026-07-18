@@ -1,0 +1,53 @@
+{
+  "steam": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Path of Exile 2",
+  "translations": [
+    "English"
+  ],
+  "tables": [
+    {
+      "name": "BaseItemTypes",
+      "columns": [
+        "Name"
+      ]
+    },
+    {
+      "name": "Expedition2Recipes",
+      "columns": [
+        "Id",
+        "Runes",
+        "Description",
+        "RuneCountRequired",
+        "MinLevelReq",
+        "MaxLevelReq",
+        "Reward",
+        "RewardCount",
+        "QuestFlag",
+        "Category",
+        "RuneWeights",
+        "DisabledText",
+        "RewardGemLevel",
+        "SomeBool",
+        "SomeFlags"
+      ]
+    },
+    {
+      "name": "Expedition2Runes",
+      "columns": [
+        "Id"
+      ]
+    },
+    {
+      "name": "Expedition2RunesWeights",
+      "columns": [
+        "Id",
+        "RecipeRuneCount",
+        "HighlightedRuneSlot",
+        "HighlightedRune",
+        "MinAreaLevel",
+        "MaxAreaLevel",
+        "SomeBool",
+        "SomeFlags"
+      ]
+    }
+  ]
+}
