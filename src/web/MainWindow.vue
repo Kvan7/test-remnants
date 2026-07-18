@@ -17,7 +17,7 @@
     <hr class="border-secondary-200" />
     <div class="flex justify-between">
       <h1 class="text-2xl font-bold text-primary-600">Rewards / Recipe Table</h1>
-      <button v-if="selection === 'rewards'" @click="clearSelection" class="btn">
+      <button v-if="selection === 'rewards'" @click="clearSelection" class="btn !rounded-tl-sm">
         Clear Selection
       </button>
     </div>
@@ -30,7 +30,7 @@
     />
     <hr class="border-secondary-200" />
     <h1 class="text-2xl font-bold text-primary-600">Finder</h1>
-    <div class="h-16 w-32 border"></div>
+    <rune-selector />
   </div>
 </template>
 
@@ -38,10 +38,12 @@
 import { REWARDS, WEIGHTS } from '@/assets/data';
 import { computed, defineComponent, shallowRef } from 'vue';
 import UiTable from './UiTable.vue';
+import RuneSelector from './RuneSelector.vue';
 
 export default defineComponent({
   components: {
     UiTable,
+    RuneSelector,
   },
   setup() {
     const startingRewards = REWARDS as unknown as Record<string, unknown>[];

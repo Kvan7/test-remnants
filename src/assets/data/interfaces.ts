@@ -69,7 +69,7 @@ export interface RuneWeight {
 
 export interface Remnants {
   recipes: {
-    [key: string]: Expedition2Recipes;
+    [key: string]: number[];
   };
   rewards: Array<{
     id: string;
