@@ -45,6 +45,7 @@
         </div>
       </div>
     </div>
+    <div>Result Count: {{ result.length }}</div>
     <ui-table :rows="result" />
   </div>
 </template>
