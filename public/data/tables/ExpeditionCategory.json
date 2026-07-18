@@ -1,0 +1,22 @@
+[
+  {
+    "_index": 0,
+    "Id": "Currency"
+  },
+  {
+    "_index": 1,
+    "Id": "Runes"
+  },
+  {
+    "_index": 2,
+    "Id": "Gems"
+  },
+  {
+    "_index": 3,
+    "Id": "Alloys"
+  },
+  {
+    "_index": 4,
+    "Id": "Uniques"
+  }
+]

@@ -48,6 +48,12 @@
         "SomeBool",
         "SomeFlags"
       ]
+    },
+    {
+      "name": "ExpeditionCategory",
+      "columns": [
+        "Id"
+      ]
     }
   ]
 }

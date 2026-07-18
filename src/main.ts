@@ -1,4 +1,7 @@
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from 'vue';
+import App from './App.vue';
+import * as Data from './assets/data';
 
-createApp(App).mount('#app')
+await Data.init();
+
+createApp(App).mount('#app');
