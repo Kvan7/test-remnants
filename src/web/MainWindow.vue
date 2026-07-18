@@ -1,5 +1,5 @@
 <template>
-  <div class="flex h-full w-full flex-col gap-2 bg-background p-8 text-text">
+  <div class="flex h-full w-full flex-col gap-2 p-8">
     <h1 class="text-2xl font-bold text-primary-600">Finder</h1>
     <div class="h-16 w-32 border"></div>
     <hr />
