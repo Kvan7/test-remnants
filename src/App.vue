@@ -1,7 +1,7 @@
 <template>
-  <div id="app" class="bg-background text-text">
+  <div id="app" class="min-w-screen flex min-h-screen flex-col bg-background text-text">
     <MyHeader />
-    <MainWindow />
+    <MainWindow class="flex-1" />
     <MyFooter />
   </div>
 </template>

@@ -18,6 +18,10 @@
           v-for="(row, rowIndex) in rows"
           :key="rowIndex"
           class="odd:bg-background-lighter whitespace-nowrap border-b border-secondary-500 last:border-b-0 even:bg-background hover:bg-primary-900"
+          @dblclick="$emit('row-dblclick', row._index !== undefined ? row._index : rowIndex)"
+          :class="{
+            '!bg-accent-900': rowIndex === selectedIndex,
+          }"
         >
           <td
             v-for="column in normalizedColumns"
@@ -58,7 +62,12 @@ export default defineComponent({
     columns: {
       type: Array as () => Column[],
     },
+    selectedIndex: {
+      type: Object as () => number | null,
+      default: null,
+    },
   },
+  emits: ['row-dblclick'],
   setup(props) {
     const normalizedColumns = computed(() => {
       if (props.columns) {
