@@ -7,9 +7,13 @@
           <button
             v-for="count in counts"
             :key="count"
-            class="btn"
             @click="selectedCount = count"
-            :class="{ '!hover:bg-accent-950 !bg-accent-900': selectedCount === count }"
+            :class="[
+              $style['btn'],
+              $style['socket-btn'],
+              count > selectedCount && $style['btn-active'],
+              count <= selectedCount && $style['btn-inactive'],
+            ]"
           >
             {{ count }}
           </button>
@@ -21,8 +25,11 @@
           <button
             v-for="rune in runes"
             :key="rune"
-            class="btn"
-            :class="{ '!hover:bg-accent-950 !bg-accent-900': rune === selectedRune }"
+            :class="[
+              $style['btn'],
+              selectedRune === rune && $style['btn-active'],
+              selectedRune !== rune && $style['btn-inactive'],
+            ]"
             @click="selectedRune = rune"
           >
             {{ rune }}
@@ -36,8 +43,11 @@
           <button
             v-for="slot in slots"
             :key="slot"
-            class="btn"
-            :class="{ '!hover:bg-accent-950 !bg-accent-900': selectedSlot === slot }"
+            :class="[
+              $style['btn'],
+              $style['socket-btn'],
+              selectedSlot === slot && $style['btn-active2'],
+            ]"
             @click="selectedSlot = slot"
           >
             {{ slot }}
@@ -100,7 +110,7 @@ export default defineComponent({
     return {
       runes: EXPEDITION_2_RUNES,
       slots: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
-      counts: [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      counts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
       playerLevel,
       usePlayerLevel,
       selectedRune,
@@ -143,5 +153,26 @@ export default defineComponent({
   &:focus {
     cursor: none;
   }
+}
+.btn-active {
+  @apply bg-accent-900 hover:bg-accent-950;
+}
+
+.btn-active2 {
+  @apply !border-4 !border-primary-700 bg-accent-900 hover:bg-accent-950;
+}
+
+.btn-inactive {
+  @apply bg-secondary-700 hover:bg-secondary-800;
+}
+.btn {
+  @apply text-primary-600;
+  @apply px-2 py-1 font-bold;
+  @apply border border-secondary-500 hover:border-secondary-600;
+}
+
+.socket-btn {
+  @apply mx-1 h-12 w-12 rounded-full !p-2;
+  @apply first:ml-0 last:mr-0;
 }
 </style>
