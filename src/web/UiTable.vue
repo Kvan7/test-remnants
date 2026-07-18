@@ -6,16 +6,24 @@
           <th
             v-for="column in normalizedColumns"
             :key="column.key"
-            class="whitespace-nowrap border-r border-secondary-500 px-2 py-1 font-bold last:border-r-0"
+            class="cursor-pointer whitespace-nowrap px-2 py-1 font-bold"
+            :class="{
+              'flex flex-row justify-between': sortColumn === column.key,
+            }"
+            @click="chooseSort(column.key)"
           >
-            {{ column.label }}
+            <div>{{ column.label }}</div>
+            <div v-if="sortColumn === column.key" class="font-extrabold text-accent-950">
+              <span v-if="sortOrder === 'asc'">^</span>
+              <span v-if="sortOrder === 'desc'">v</span>
+            </div>
           </th>
         </tr>
       </thead>
 
       <tbody>
         <tr
-          v-for="(row, rowIndex) in rows"
+          v-for="(row, rowIndex) in sortedRows"
           :key="rowIndex"
           class="odd:bg-background-lighter whitespace-nowrap border-b border-secondary-500 last:border-b-0 even:bg-background hover:bg-primary-900"
           @dblclick="$emit('row-dblclick', row._index !== undefined ? row._index : rowIndex)"
@@ -44,7 +52,7 @@
 </template>
 
 <script lang="ts">
-import { computed, defineComponent } from 'vue';
+import { computed, defineComponent, shallowRef } from 'vue';
 
 type Column =
   | string
@@ -66,6 +74,14 @@ export default defineComponent({
       type: Object as () => number | null,
       default: null,
     },
+    defaultSortColumn: {
+      type: String as () => string | null,
+      default: null,
+    },
+    defaultSortOrder: {
+      type: String as () => 'asc' | 'desc' | null,
+      default: null,
+    },
   },
   emits: ['row-dblclick'],
   setup(props) {
@@ -85,7 +101,52 @@ export default defineComponent({
       }
       return Object.keys(props.rows[0]!).map((k) => ({ key: k, label: k }));
     });
-    return { normalizedColumns };
+
+    const sortOrder = shallowRef<null | 'asc' | 'desc'>(props.defaultSortOrder);
+    const sortColumn = shallowRef<null | string>(props.defaultSortColumn);
+    const sortedRows = computed(() => {
+      if (!sortColumn.value || !sortOrder.value) {
+        return props.rows;
+      }
+      const column = normalizedColumns.value.find((c) => c.key === sortColumn.value)!;
+      return props.rows.toSorted((a, b) => {
+        const aVal = a[column.key];
+        const bVal = b[column.key];
+        if (aVal === bVal) {
+          return 0;
+        }
+        if (typeof aVal === 'number' && typeof bVal === 'number') {
+          if (aVal < bVal) {
+            return sortOrder.value === 'asc' ? -1 : 1;
+          }
+          return sortOrder.value === 'asc' ? 1 : -1;
+        }
+        if (typeof aVal === 'string' && typeof bVal === 'string') {
+          if (aVal < bVal) {
+            return sortOrder.value === 'asc' ? -1 : 1;
+          }
+          return sortOrder.value === 'asc' ? 1 : -1;
+        }
+        return sortOrder.value === 'asc' ? 1 : -1;
+      });
+    });
+
+    return {
+      normalizedColumns,
+      sortedRows,
+      sortColumn,
+      sortOrder,
+      chooseSort(column: string) {
+        sortColumn.value = column;
+        if (sortOrder.value === 'asc') {
+          sortOrder.value = 'desc';
+        } else if (sortOrder.value === 'desc') {
+          sortOrder.value = null;
+        } else {
+          sortOrder.value = 'asc';
+        }
+      },
+    };
   },
 });
 </script>

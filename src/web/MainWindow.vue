@@ -1,8 +1,5 @@
 <template>
   <div class="flex h-full w-full flex-col gap-2 p-8">
-    <h1 class="text-2xl font-bold text-primary-600">Finder</h1>
-    <div class="h-16 w-32 border"></div>
-    <hr class="border-secondary-200" />
     <div class="flex justify-between">
       <h1 class="text-2xl font-bold text-primary-600">Weight Table</h1>
       <button v-if="selection === 'weights'" @click="clearSelection">Clear Selection</button>
@@ -11,6 +8,8 @@
       :rows="weights"
       @row-dblclick="selectWeightRow"
       :selectedIndex="selection === 'weights' ? selectedIndex : null"
+      defaultSortColumn="HighlightedRune"
+      defaultSortOrder="asc"
     />
 
     <hr class="border-secondary-200" />
@@ -22,7 +21,12 @@
       :rows="rewards"
       @row-dblclick="selectRewardRow"
       :selectedIndex="selection === 'rewards' ? selectedIndex : null"
+      defaultSortColumn="_index"
+      defaultSortOrder="desc"
     />
+    <hr class="border-secondary-200" />
+    <h1 class="text-2xl font-bold text-primary-600">Finder</h1>
+    <div class="h-16 w-32 border"></div>
   </div>
 </template>
 
