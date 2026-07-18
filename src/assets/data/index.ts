@@ -48,7 +48,7 @@ export async function init() {
   REWARDS = EXPEDITION_2_RECIPES.map((r) => ({
     ...r,
     Runes: r.Runes.map((r) => EXPEDITION_2_RUNES[r]!),
-    Reward: r.Reward ? EXPEDITION_2_RUNES[r.Reward]! : r.Description,
+    Reward: r.Reward !== null ? BASE_ITEM_TYPES[r.Reward]! : r.Description,
     Category: EXPEDITION_CATEGORY[r.Category]!,
   }));
   WEIGHTS = EXPEDITION_2_RUNES_WEIGHTS.map((w) => ({
