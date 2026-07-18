@@ -2,7 +2,9 @@
   <div class="flex h-full w-full flex-col gap-2 p-8">
     <div class="flex justify-between">
       <h1 class="text-2xl font-bold text-primary-600">Weight Table</h1>
-      <button v-if="selection === 'weights'" @click="clearSelection">Clear Selection</button>
+      <button v-if="selection === 'weights'" @click="clearSelection" class="btn">
+        Clear Selection
+      </button>
     </div>
     <ui-table
       :rows="weights"
@@ -15,7 +17,9 @@
     <hr class="border-secondary-200" />
     <div class="flex justify-between">
       <h1 class="text-2xl font-bold text-primary-600">Rewards / Recipe Table</h1>
-      <button v-if="selection === 'rewards'" @click="clearSelection">Clear Selection</button>
+      <button v-if="selection === 'rewards'" @click="clearSelection" class="btn">
+        Clear Selection
+      </button>
     </div>
     <ui-table
       :rows="rewards"

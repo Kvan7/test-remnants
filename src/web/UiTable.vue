@@ -28,7 +28,7 @@
           class="odd:bg-background-lighter whitespace-nowrap border-b border-secondary-500 last:border-b-0 even:bg-background hover:bg-primary-900"
           @dblclick="$emit('row-dblclick', row._index !== undefined ? row._index : rowIndex)"
           :class="{
-            '!bg-accent-900': rowIndex === selectedIndex,
+            '!bg-accent-900': (row._index !== undefined ? row._index : rowIndex) === selectedIndex,
           }"
         >
           <td

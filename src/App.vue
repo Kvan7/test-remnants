@@ -19,4 +19,10 @@ import MyHeader from './web/MyHeader.vue';
 a {
   @apply text-primary-600 underline hover:text-primary-500;
 }
+
+.btn {
+  @apply bg-secondary-700 text-primary-600 hover:bg-secondary-800;
+  @apply rounded-tl-sm px-2 py-1 font-bold;
+  @apply border border-secondary-500 hover:border-secondary-600;
+}
 </style>
