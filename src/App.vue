@@ -12,6 +12,8 @@ import MyHeader from './web/MyHeader.vue';
 </script>
 
 <style lang="postcss">
+@import url('@fortawesome/fontawesome-free/css/all.min.css');
+@import url('assets/font.css');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
