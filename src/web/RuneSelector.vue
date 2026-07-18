@@ -69,12 +69,13 @@
       </div>
     </div>
     <div>Result Count: {{ result.length }}</div>
-    <ui-table :rows="result" />
+    <ui-table :rows="result" class="my-2" />
+    <ui-table :rows="selectedWeight" class="my-2" />
   </div>
 </template>
 
 <script lang="ts">
-import { EXPEDITION_2_RUNES, REMNANTS } from '@/assets/data';
+import { EXPEDITION_2_RUNES, REMNANTS, WEIGHTS } from '@/assets/data';
 import { computed, defineComponent, shallowRef } from 'vue';
 import UiTable from './UiTable.vue';
 import UiCheckbox from './UiCheckbox.vue';
@@ -107,6 +108,15 @@ export default defineComponent({
       return filteredRewards;
     });
 
+    const selectedWeight = computed(() => {
+      return WEIGHTS.filter(
+        (weight) =>
+          weight.HighlightedRune === selectedRune.value &&
+          weight.HighlightedRuneSlot === selectedSlot.value &&
+          weight.RecipeRuneCount === selectedCount.value,
+      ) as unknown as Record<string, unknown>[];
+    });
+
     return {
       runes: EXPEDITION_2_RUNES,
       slots: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
@@ -117,6 +127,7 @@ export default defineComponent({
       selectedSlot,
       selectedCount,
       result,
+      selectedWeight,
     };
   },
 });
