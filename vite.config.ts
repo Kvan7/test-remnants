@@ -15,4 +15,5 @@ export default defineConfig({
   build: {
     sourcemap: true,
   },
+  base: 'https://kvan7.github.io/test-remnants/',
 });
